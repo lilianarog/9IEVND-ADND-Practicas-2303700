@@ -9,4 +9,4 @@ Este repositotio contiene los resultados de las practicas de la materia para ten
 
 |Número|Descripción|Potenciador|Estatus|
 |---|---|---|---|
-|1.|[Introduccion al uso de Python en el analisis de datos](Practica02/PRACTICA02__230370210526%20(1).ipynb)|37|Revisada|
+|1.|[Introduccion al uso de Python en el analisis de datos](Practica02/PRACTICA02__230370.ipynb)|37|Revisada|
